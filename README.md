@@ -28,8 +28,8 @@ Tugas Besar 1 • Jaringan Syaraf Tiruan (IT6053) • FTI UKDW
 | Berkas | Keterangan |
 |---|---|
 | [`README.md`](README.md) | Dokumen ini |
-| [`TB1_KelompokXX.ipynb`](TB1_KelompokMasPras.ipynb) | Notebook lengkap: kode, penjelasan, dan keluaran eksperimen |
-| [`TB1_KelompokXX.pdf`](TB1_KelompokMasPras.pdf) | Laporan (5–8 halaman isi utama) |
+| [`TB1_KelompokMasPras.ipynb`](TB1_KelompokMasPras.ipynb) | Notebook lengkap: kode, penjelasan, dan keluaran eksperimen |
+| [`TB1_KelompokMasPras.pdf`](TB1_KelompokMasPras.pdf) | Laporan (5–8 halaman isi utama) |
 | [`Presentasi_TB1.pdf`](Presentasi_TB1.pdf) | Slide presentasi |
 | [`dataset.csv`](dataset.csv) | Data yang digunakan dalam eksperimen |
 | [`requirements.txt`](requirements.txt) | Dependensi dan versinya |
