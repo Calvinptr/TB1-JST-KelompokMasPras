@@ -1,4 +1,4 @@
-# TB1-JSTKelompokXX: Klasifikasi Kelulusan Siswa dengan Perceptron dan ADALINE
+# TB1-JSTKelompokMasPras: Klasifikasi Kelulusan Siswa dengan Perceptron dan ADALINE
 
 Tugas Besar 1 • Jaringan Syaraf Tiruan (IT6053) • FTI UKDW
 
