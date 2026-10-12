@@ -105,7 +105,7 @@ Jalankan seluruh sel dari awal sampai akhir (*Restart & Run All*). Notebook memb
 | # | Model | η | Epoch | Standardisasi | Akurasi dan latih uji | Error/loss akhir |
 |---|---|---|---|---|---|---|
 | 1 | Perceptron | 0,001 | 50 | Ya | 0.9357 | 333 |
-| 2 | Perceptron | 0,01 | 50 | Ya | 0.9357 | 0,9281 | 333 |
+| 2 | Perceptron | 0,01 | 50 | Ya | 0.9357 | 333 |
 | 3 | Perceptron | 0,1 | 50 | Ya | 0.9357 | 333 |
 | 4 | ADALINE | 0,001 | 50 | Ya | 0.9364 | 46 |
 | 5 | ADALINE | 0,01 | 50 | Ya | 0.9493 | 29 |
