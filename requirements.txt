@@ -1,0 +1,6 @@
+Daftar depedency yang diperlukan:
+- gdown: Versi 5.2.0 (atau terbaru)
+- pandas: Versi 2.2.2 (minimal 2.0.0)
+- numpy: Versi 1.26.4 (minimal 1.24.0)
+- scikit-learn: Versi 1.4.2 (minimal 1.3.0)
+- matplotlib: Versi 3.8.4 (minimal 3.7.0)
