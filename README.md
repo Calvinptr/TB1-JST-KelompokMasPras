@@ -63,8 +63,6 @@ https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data
 | Nominal | `Peer_Influence`, `Parental_Education_Level`, `Distance_from_Home` | Imputasi modus; one-hot |
 | Target | `Exam_Score` | Diubah menjadi label: skor ≥ **[isi]** → **+1** (Lulus), selainnya **−1**. **Tidak dipakai sebagai fitur.** |
 
-**Alasan ambang label:** **[isi]**
-
 **Urutan pengolahan (anti-kebocoran):** split latih/uji (80:20, stratifikasi) → imputasi → encoding → standardisasi. Seluruh parameter (median, modus, rata-rata, simpangan baku) dipelajari **hanya dari data latih**, lalu diterapkan ke data uji.
 
 ## 5. Instalasi dan Cara Menjalankan
