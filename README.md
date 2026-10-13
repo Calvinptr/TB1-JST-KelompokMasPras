@@ -47,7 +47,7 @@ https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data
 
 | Item | Nilai |
 |---|---|
-| Jumlah kolom asli | **40** |
+| Jumlah kolom asli | **20** |
 | Missing value | **3 Kolom** |
 | Duplikat | **0** |
 | Fitur setelah encoding | 40 |
